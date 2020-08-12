@@ -9,7 +9,7 @@ My [stackoverflow question](https://stackoverflow.com/questions/62901092/cpp-syn
 
 ---
 
-## Complete Guide to Digital Cognition eBook
+## Incomplete Guide to Digital Cognition eBook
 
 This is a live eBook covering topics in Linear Algebra, Machine Learning, and Reinforcement Learning.
 
