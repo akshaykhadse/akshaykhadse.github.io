@@ -1,3 +1,5 @@
+# Jekyll.gitignore
+# https://raw.githubusercontent.com/github/gitignore/master/Jekyll.gitignore
 _site/
 .sass-cache/
 .jekyll-cache/
