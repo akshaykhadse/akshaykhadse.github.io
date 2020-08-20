@@ -1,4 +1,5 @@
-# My Projects
+---
+title: My Projects
 ---
 
 ## [C++ Plugin for Google Colab and Jupyter Notebook](https://gist.github.com/akshaykhadse/7acc91dd41f52944c6150754e5530c4b)
